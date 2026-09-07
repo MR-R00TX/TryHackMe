@@ -43,3 +43,8 @@ root@munna:~# cat /opt/toolkit.txt
 [+] Web Exploitation    : Burp Suite, Httpx, Naabu, Nuclei, SQLmap
 [+] Exploitation        : Metasploit, Searchsploit, Netcat
 [+] Password Cracking   : Hashcat, John The Ripper, Hydra
+
+
+- [ WARNING: AUTHORIZED PERSONNEL ONLY ] -
+- All methodologies, scripts, and write-ups documented here are strictly for educational purposes and authorized security research on the TryHackMe platform.
+- Do not utilize these techniques on systems without explicit, mutual consent.
