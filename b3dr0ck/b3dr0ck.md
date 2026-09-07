@@ -546,7 +546,7 @@ barney@10.48.129.249's password:
 barney@ip-10-48-129-249:~$ ls
 barney.txt
 barney@ip-10-48-129-249:~$ cat barney.txt 
-THM{f05780f08f0eb1de65023069d0e4c90c}
+THM{XXXXXXXXXXXX}
 barney@ip-10-48-129-249:~$ ls -la
 total 28
 drwxr-xr-x 3 barney barney 4096 Apr 30  2022 .
@@ -1046,7 +1046,7 @@ root@ip-10-48-129-249:/# cd root
 root@ip-10-48-129-249:~# ls
 pass.txt  root.txt  snap
 root@ip-10-48-129-249:~# cat  root.txt
-THM{de4043c009214b56279982bf10a661b7}
+THM{xxxxxxxxxx}
 root@ip-10-48-129-249:~# 
 
 ```
