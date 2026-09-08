@@ -1,6 +1,8 @@
+# Couch.md - CTF Writeup
+
 ## 🔍 1. Initial Reconnaissance
 
-```
+```bash
 rustscan -a 10.49.172.41   
 .----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
 | {}  }| { } |{ {__ {_   _}{ {__  /  ___} / {} \ |  `| |
@@ -8,8 +10,8 @@ rustscan -a 10.49.172.41
 `-' `-'`-----'`----'  `-'  `----'  `---' `-'  `-'`-' `-'
 The Modern Day Port Scanner.
 ________________________________________
-: http://discord.skerritt.blog         :
-: https://github.com/RustScan/RustScan :
+: [http://discord.skerritt.blog](http://discord.skerritt.blog)         :
+: [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan) :
  --------------------------------------
 TCP handshake? More like a friendly high-five!
 
@@ -19,7 +21,7 @@ TCP handshake? More like a friendly high-five!
 Open 10.49.172.41:22
 Open 10.49.172.41:5984
 [~] Starting Script(s)
-[~] Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-18 13:55 -0400
+[~] Starting Nmap 7.99 ( [https://nmap.org](https://nmap.org) ) at 2026-06-18 13:55 -0400
 Initiating Ping Scan at 13:55
 Scanning 10.49.172.41 [4 ports]
 Completed Ping Scan at 13:55, 0.11s elapsed (1 total hosts)
@@ -42,16 +44,11 @@ PORT     STATE SERVICE REASON
 Read data files from: /usr/share/nmap
 Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
            Raw packets sent: 6 (240B) | Rcvd: 18 (728B)
-
-
-```
-
-![[Screenshot_2026-06-18_14-41-11.png]]
-![[Screenshot_2026-06-18_14-40-52.png]]
-
-![[Screenshot_2026-06-18_14-40-26.png]]
-
-```
+📸 Screenshots
+[cite: 1]
+🚪 2. Initial Access & Privilege Escalation
+[cite: 1]
+Bash
 ssh atena@10.49.172.41                               
 The authenticity of host '10.49.172.41 (10.49.172.41)' can't be established.
 ED25519 key fingerprint is: SHA256:QXIT4W/vOthS71YtOAr7s67oloxpMmr0GLRVL9iVFJM
@@ -60,13 +57,13 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added '10.49.172.41' (ED25519) to the list of known hosts.
 ** WARNING: connection is not using a post-quantum key exchange algorithm.
 ** This session may be vulnerable to "store now, decrypt later" attacks.
-** The server may need to be upgraded. See https://openssh.com/pq.html
+** The server may need to be upgraded. See [https://openssh.com/pq.html](https://openssh.com/pq.html)
 atena@10.49.172.41's password: 
 Welcome to Ubuntu 16.04.7 LTS (GNU/Linux 4.4.0-193-generic x86_64)
 
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
+ * Documentation:  [https://help.ubuntu.com](https://help.ubuntu.com)
+ * Management:     [https://landscape.canonical.com](https://landscape.canonical.com)
+ * Support:        [https://ubuntu.com/advantage](https://ubuntu.com/advantage)
 Last login: Fri Dec 18 15:25:27 2020 from 192.168.85.1
 atena@ubuntu:~$ ls
 user.txt
@@ -116,7 +113,7 @@ sudo -s
 cd /etc/apt/
 rm sources.
 rm sources.list
-wget https://gist.githubusercontent.com/rohitrawat/60a04e6ebe4a9ec1203eac3a11d4afc1/raw/fcdfde2ab57e455ba9b37077abf85a81c504a4a9/sources.list
+wget [https://gist.githubusercontent.com/rohitrawat/60a04e6ebe4a9ec1203eac3a11d4afc1/raw/fcdfde2ab57e455ba9b37077abf85a81c504a4a9/sources.list](https://gist.githubusercontent.com/rohitrawat/60a04e6ebe4a9ec1203eac3a11d4afc1/raw/fcdfde2ab57e455ba9b37077abf85a81c504a4a9/sources.list)
 apt-get update
 apt-get dist-upgrade 
 sudo apt-get install software-properties-common
@@ -135,11 +132,11 @@ sudo systemctl restart couchdb
 sudo firewall-cmd --zone=public --add-port=5984/tcp --permanent
 sudo apt-get install build-essential curl nodejs
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-curl -sSL https://get.rvm.io | bash -s stable --ruby
-curl -sSL https://rvm.io/mpapis.asc | sudo gpg --import -
-curl -sSL https://rvm.io/pkuczynski.asc | sudo gpg --import -
+curl -sSL [https://get.rvm.io](https://get.rvm.io) | bash -s stable --ruby
+curl -sSL [https://rvm.io/mpapis.asc](https://rvm.io/mpapis.asc) | sudo gpg --import -
+curl -sSL [https://rvm.io/pkuczynski.asc](https://rvm.io/pkuczynski.asc) | sudo gpg --import -
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-curl -sSL https://get.rvm.io | bash -s stable --ruby
+curl -sSL [https://get.rvm.io](https://get.rvm.io) | bash -s stable --ruby
 source /usr/local/rvm/scripts/rvm
 rvm list known
 rvm install 2.2
@@ -301,11 +298,3 @@ drwxr-xr-x    1 root     root          4096 Jun 18 18:31 ..
 THM{RCE_us1ng_Docker_API}
 / # Connection to 10.49.172.41 closed by remote host.
 Connection to 10.49.172.41 closed.
-    
-
-```
-
-
-
-
-
