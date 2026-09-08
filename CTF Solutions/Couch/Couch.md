@@ -46,9 +46,8 @@ Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
 
 ```
 
-![Screenshot 1](Screenshot_2026-06-18_14-41-11.png) 
+![Screenshot 1](Screenshot_2026-06-18_14-41-11.png)
 ![Screenshot 2](Screenshot_2026-06-18_14-40-52.png)
-
 ![Screenshot 3](Screenshot_2026-06-18_14-40-26.png)
 
 ```
