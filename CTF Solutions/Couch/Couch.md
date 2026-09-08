@@ -45,11 +45,10 @@ Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
 
 
 ```
+<img width="1917" height="692" alt="image" src="https://github.com/user-attachments/assets/2c5b1f40-756d-4f01-90bb-b80f324afbdb" />
+<img width="1919" height="590" alt="image" src="https://github.com/user-attachments/assets/eaf3381a-5533-4ae8-a4d2-ec7c12703424" />
+<img width="1917" height="566" alt="image" src="https://github.com/user-attachments/assets/f5ec79bf-f118-415c-a928-3f0c1e27c7f0" />
 
-![Screenshot 1](Screenshot_2026-06-18_14-41-11.png)
-![Screenshot 2](Screenshot_2026-06-18_14-40-52.png)
-![Screenshot 3](Screenshot_2026-06-18_14-40-26.png)
-<img width="1919" height="590" alt="image" src="https://github.com/user-attachments/assets/ee632f12-1d73-46bc-9221-9251c372d9a6" />
 
 ```
 ssh atena@10.49.172.41                               
