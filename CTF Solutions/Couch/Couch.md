@@ -49,6 +49,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
 ![Screenshot 1](Screenshot_2026-06-18_14-41-11.png)
 ![Screenshot 2](Screenshot_2026-06-18_14-40-52.png)
 ![Screenshot 3](Screenshot_2026-06-18_14-40-26.png)
+<img width="1919" height="590" alt="image" src="https://github.com/user-attachments/assets/ee632f12-1d73-46bc-9221-9251c372d9a6" />
 
 ```
 ssh atena@10.49.172.41                               
