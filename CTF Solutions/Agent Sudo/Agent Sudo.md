@@ -435,7 +435,7 @@ Last login: Tue Oct 29 14:26:27 2019
 james@agent-sudo:~$ ls
 Alien_autospy.jpg  user_flag.txt
 james@agent-sudo:~$ cat user_flag.txt
-b03d975e8c92a7c04146cfa7a5a313c7
+{xxxxxxxxxxxxxxxxxxxxxxxx}
 james@agent-sudo:~$ pwd
 /home/james
 james@agent-sudo:~$ sudo -l
@@ -503,7 +503,7 @@ To Mr.hacker,
 Congratulation on rooting this box. This box was designed for TryHackMe. Tips, always update your machine. 
 
 Your flag is 
-b53a02f55b57d4439e3341834d70c062
+{xxxxxxxxxxxxxxxxxxxxx}
 
 By,
 DesKel a.k.a Agent R
