@@ -1,5 +1,6 @@
 
-![[Pasted image 20260812183037.png]]
+<img width="1880" height="406" alt="image" src="https://github.com/user-attachments/assets/92fdcc18-1609-4731-8edd-4911fdd56c3a" />
+
 
 
 
@@ -28,11 +29,13 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 
-![[Pasted image 20260812163833.png]]
+<img width="1902" height="879" alt="image" src="https://github.com/user-attachments/assets/ff3c4c9d-ebad-48ac-b1d7-8d7cf12ce91e" />
 
 
 
-![[Pasted image 20260812182354.png]]
+
+<img width="1602" height="964" alt="image" src="https://github.com/user-attachments/assets/1de298cc-30cc-41da-98d2-1f8c4f69e970" />
+
 
 
 ```
@@ -52,7 +55,8 @@ Saving to: ‘50383’
 ```
 
 
-![[Pasted image 20260812182522.png]]
+<img width="1156" height="377" alt="image" src="https://github.com/user-attachments/assets/ebad891e-e95e-430e-8db6-f44166a19323" />
+
 
 
 ```
@@ -94,10 +98,12 @@ cd /tmp
 
 ```
 
-![[Pasted image 20260812182708.png]]
+<img width="1874" height="435" alt="image" src="https://github.com/user-attachments/assets/273a4a2b-cf20-487f-b1ac-f42cd15343fc" />
 
 
-![[Pasted image 20260812183140.png]]
+
+<img width="1102" height="273" alt="image" src="https://github.com/user-attachments/assets/44201e01-ac04-40a7-8e99-eafdc505a8da" />
+
 
 
 
