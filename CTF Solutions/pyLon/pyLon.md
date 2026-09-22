@@ -1,6 +1,6 @@
-![[Pasted image 20260622235034.png]]
+<img width="1905" height="374" alt="image" src="https://github.com/user-attachments/assets/f9d177a2-f035-43a5-bfb3-a6199790f81f" />
 
-![[Pasted image 20260622235112.png]]
+<img width="1634" height="448" alt="image" src="https://github.com/user-attachments/assets/344cb37f-0d28-4597-89a3-160c9703b3d3" />
 
 ```
 exiftool pepper_1611998632625.jpg 
