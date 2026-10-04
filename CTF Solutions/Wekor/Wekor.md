@@ -1,4 +1,5 @@
-![[Pasted image 20260924004835.png]]
+<img width="1906" height="391" alt="image" src="https://github.com/user-attachments/assets/4e513bd1-d931-4b3e-97bf-3a0041cf5a59" />
+
 
 
 ```
@@ -18,12 +19,15 @@ Nmap done: 1 IP address (1 host up) scanned in 11.07 seconds
 ```
 
 
-![[Pasted image 20260923214044.png]]
+<img width="780" height="323" alt="image" src="https://github.com/user-attachments/assets/8117c541-5ee2-4cc5-b5c2-b133cab7b9ee" />
 
 
-![[Pasted image 20260923214226.png]]
 
-![[Pasted image 20260923214358.png]]
+<img width="1911" height="873" alt="image" src="https://github.com/user-attachments/assets/b39ee51b-fec2-4566-8f7b-e0102229ddd3" />
+
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/713dd947-93e2-4e68-8334-10e620009409" />
+
 
 
 ![[Pasted image 20260923214556.png]]
