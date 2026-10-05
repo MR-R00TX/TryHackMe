@@ -30,17 +30,20 @@ Nmap done: 1 IP address (1 host up) scanned in 11.07 seconds
 
 
 
-![[Pasted image 20260923214556.png]]
+<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/0d61c416-7031-40a9-8ebe-d3985a554942" />
 
 
-![[Pasted image 20260923215856.png]]
+
+<img width="1906" height="566" alt="image" src="https://github.com/user-attachments/assets/f4386951-71dc-4e0d-b2ae-db71afca1515" />
+
 
 
 
 
 *dump database*
 
-![[Pasted image 20260923215434.png]]
+<img width="1173" height="324" alt="image" src="https://github.com/user-attachments/assets/146d5e74-b981-4dcf-8db0-49c0c22c7082" />
+
 
 ![[Pasted image 20260923215936.png]]
 
