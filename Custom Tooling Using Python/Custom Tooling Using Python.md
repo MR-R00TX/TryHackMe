@@ -1,4 +1,5 @@
-![[Pasted image 20260622162724.png]]
+<img width="1882" height="406" alt="image" src="https://github.com/user-attachments/assets/600e58e7-cb58-4f91-a6ec-b0297d58a65f" />
+
 
 ```
 nano /etc/hosts
