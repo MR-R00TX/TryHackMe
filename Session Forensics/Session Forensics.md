@@ -1,5 +1,6 @@
 
-![[Pasted image 20260708214021.png|697]]
+<img width="1022" height="319" alt="image" src="https://github.com/user-attachments/assets/888cef2f-1c58-4ed5-98b2-137c8a40c443" />
+
 
 ***Task 1 Introduction***
 
@@ -23,7 +24,8 @@ You might have heard of JSON Web Tokens (JWT), which are commonly seen in mode
 
 
 
-![[Pasted image 20260708192436.png]]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90f39ee1-2152-4956-8cda-a14838e2cca7" />
+
 
 1.Header: Dictates the algorithm used for signing, usually RSA.
 2.Payload: Contains information about the user, like role, session ID, or when the token expires.
@@ -41,7 +43,8 @@ By now, you should be familiar with session tokens, JWTs, and the ecosystems the
 
 
 
-![[Pasted image 20260708193553.png]]
+<img width="1220" height="1080" alt="image" src="https://github.com/user-attachments/assets/de3db734-2c80-4979-b6d0-93401eeb5b84" />
+
 
 
 **Web Server Logs**
