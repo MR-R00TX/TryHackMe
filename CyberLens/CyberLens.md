@@ -10,7 +10,8 @@ echo '10.81.156.224 cyberlens.thm' >> /etc/hosts
 ```
 
 
-![[Pasted image 20261011012109.png]]
+<img width="1910" height="877" alt="image" src="https://github.com/user-attachments/assets/c65cc465-70f3-4dc5-bcc0-507ed1d4a795" />
+
 
 
 
@@ -42,7 +43,7 @@ Nmap done: 1 IP address (1 host up) scanned in 743.80 seconds
 
 ```
 
-![[Pasted image 20261011022940.png]]
+<img width="1904" height="866" alt="image" src="https://github.com/user-attachments/assets/0dae9330-dfcc-414e-970e-4bd380db1aee" />
 
 
 ## Use Metasploit
@@ -58,7 +59,8 @@ use exploit/windows/http/apache_tika_jp2_jscript
 ```
 
 
-![[Pasted image 20261011023348.png]]
+<img width="1550" height="477" alt="image" src="https://github.com/user-attachments/assets/c9d1bec9-4f00-4443-9420-98730004c298" />
+
 
 
 ```
@@ -76,23 +78,29 @@ exploit
 
 
 
-![[Pasted image 20261011023536.png]]
-
-
-![[Pasted image 20261011023600.png]]
+<img width="1636" height="774" alt="image" src="https://github.com/user-attachments/assets/5942383b-a7f2-4795-bd9b-3f302229a055" />
 
 
 
-![[Pasted image 20261011023643.png]]
+<img width="1914" height="785" alt="image" src="https://github.com/user-attachments/assets/d719c5b7-84cc-4a13-bc38-d11b9b315094" />
 
 
-![[Pasted image 20261011023819.png]]
 
 
-![[Pasted image 20261011024051.png]]
+<img width="1768" height="804" alt="image" src="https://github.com/user-attachments/assets/cbbd090c-decd-4c19-8cd7-1ec7c3ee0f5c" />
 
 
-![[Pasted image 20261011024131.png]]
+
+<img width="1307" height="795" alt="image" src="https://github.com/user-attachments/assets/1d2eb48c-bf66-4aa2-8a33-84a275309695" />
+
+
+
+<img width="1678" height="789" alt="image" src="https://github.com/user-attachments/assets/ca281234-97e6-4cd7-844a-972adab33200" />
+
+
+
+<img width="1396" height="801" alt="image" src="https://github.com/user-attachments/assets/0f30547f-3095-4688-b7b0-c8ad8c783e5a" />
+
 
 
 ```
