@@ -118,11 +118,12 @@ msf exploit(multi/handler) > exploit
 ```
 
 
-![[Pasted image 20261011024347.png]]
+<img width="965" height="788" alt="image" src="https://github.com/user-attachments/assets/791f3d62-2bb5-4050-b186-a627ebb8b4ae" />
 
 
 
-![[Pasted image 20261011024413.png]]
+
+<img width="1033" height="788" alt="image" src="https://github.com/user-attachments/assets/831e977f-78ae-4364-8c46-5ab29d9078e6" />
 
 
 
@@ -229,10 +230,12 @@ C:\Users\Administrator\Desktop>
 ```
 
 
-![[Pasted image 20261011024545.png]]
+<img width="1502" height="788" alt="image" src="https://github.com/user-attachments/assets/e4168c44-4f2a-46a4-a463-dc802eabeb2e" />
 
 
-![[Pasted image 20261011024606.png]]
+
+<img width="1343" height="798" alt="image" src="https://github.com/user-attachments/assets/54f6b769-b806-4ab8-bd92-ed2436d0c498" />
+
 
 
 
