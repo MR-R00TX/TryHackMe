@@ -16,7 +16,7 @@
 | **Wiz Bug Bounty Masterclass** | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) |
 | **Webinar on CEH (Certified Ethical Hacker)** | Cyberlog Limited | N/A |
 
-## `cat ctf_participation.txt`
+
 
 | CTF | Issuer | Date |
 |---|---|---|
