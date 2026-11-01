@@ -15,11 +15,6 @@
 | **Cyber Security & Ethical Hacking Boot Camp** (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 |
 | **Wiz Bug Bounty Masterclass** | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) |
 | **Webinar on CEH (Certified Ethical Hacker)** | Cyberlog Limited | N/A |
-
-
-
-| CTF | Issuer | Date |
-|---|---|---|
 | **SecFest'26 Capture the Flag** (Certified CTF Player) | Hack The Box | 28 – 30 Oct 2026 |
 | **Operation Cymbal: Cold Room 2026 CTF** (Certified CTF Player) | Hack The Box | 29 Oct – 01 Nov 2026 |
 | **Cyber Apocalypse CTF 2026: The Salt Crown** (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 |
