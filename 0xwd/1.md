@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/MR-R00TX/MR-R00TX/main/.github%20/%20workflows/banner-animated.gif" alt="MR.R00TX - Offensive Security Specialist | Red Team | Bug Bounty" width="100%" />
-
 </div>
-
 <div align="center">
-
 ```
  ██████╗  ██████╗  ██████╗ ████████╗██╗  ██╗
  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝╚██╗██╔╝
@@ -17,96 +13,56 @@
  > [+] Target acquired: Vulnerabilities
  > [!] Status: HUNTING
 ```
-
 </div>
-
 ---
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Offensive+Security+Specialist;Red+Team+%7C+Bug+Bounty+%7C+CTF+Player;Web+App+Pentester+%7C+Exploit+Developer;Breaking+systems+so+defenders+can+fix+them.)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Offensive+Security+Specialist;Red+Team+%7C+Bug+Bounty+%7C+CTF+Player;Web+App+Pentester+%7C+Exploit+Developer;Breaking+systems+so+defenders+can+fix+them.)
 </div>
-
 ---
-
-## `whoami`
-
+`whoami`
 > *"Both systems and women share one flawless protocol: Never trust implicitly. Always verify explicitly."*
-
-I'm a passionate **Offensive Security Specialist** focused on Web Application Penetration Testing, Red Team operations, and Exploit Development. I thrive in CTF environments, hunt real-world bugs through responsible disclosure, and continuously level up my skills on platforms like HackTheBox and TryHackMe.
-
-- 🎯 **Primary Goal:** Professional Penetration Tester & Red Teamer
-- 🌱 **Currently Mastering:** Advanced Exploitation, Custom Tooling & Vulnerable Lab Research
-- 🐛 **Ask me about:** Recon, Bug Bounty Methodology, XSS, LFI, and OWASP Top 10
-- 📡 **Operating from:** Bangladesh
-- 🏢 **Co-Founder:** [Security Crown](https://seccrown.com) — Web Application Penetration Testing & WordPress Security
-- 🎓 **Education:** BBA, Pabna University of Science and Technology
-- 💼 **Open to:** Remote Junior Penetration Tester · Application Security · Security Analyst roles
-
+I'm a passionate Offensive Security Specialist focused on Web Application Penetration Testing, Red Team operations, and Exploit Development. I thrive in CTF environments, hunt real-world bugs through responsible disclosure, and continuously level up my skills on platforms like HackTheBox and TryHackMe.
+🎯 Primary Goal: Professional Penetration Tester & Red Teamer
+🌱 Currently Mastering: Advanced Exploitation, Custom Tooling & Vulnerable Lab Research
+🐛 Ask me about: Recon, Bug Bounty Methodology, XSS, LFI, and OWASP Top 10
+📡 Operating from: Bangladesh
 ---
-
-## `./connect.sh`
-
+`./connect.sh`
 <div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-LEGEND%20%7C%20Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MR.R00TX)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Skilled%20%7C%20Level%2035-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019dcb1e-9c50-7339-b4f8-f59658430a3e)
-[![GitHub](https://img.shields.io/badge/GitHub-MR--R00TX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-R00TX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--munnah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-munnah/)
-[![About.me](https://img.shields.io/badge/About.me-mdmunna-00A98F?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/mdmunna)
-[![Email](https://img.shields.io/badge/Email-munna%40seccrown.com-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munna@seccrown.com)
-[![Security Crown](https://img.shields.io/badge/Security%20Crown-seccrown.com-5C0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://seccrown.com)
-
+![TryHackMe](https://img.shields.io/badge/TryHackMe-LEGEND%20%7C%20Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Skilled%20%7C%20Level%2035-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![GitHub](https://img.shields.io/badge/GitHub-MR--R00TX-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-md--munnah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![About.me](https://img.shields.io/badge/About.me-mdmunna-00A98F?style=for-the-badge&logo=about.me&logoColor=white)
 </div>
-
 ---
-
-## `cat /var/log/achievements.log`
-
+`cat /var/log/achievements.log`
 <div align="center">
-
-| 🏆 Engagement | 📊 Rank | 🎯 Achievement |
-|:---|:---:|:---|
-| **HI Cyber Con 2026 CTF** (Team SecCrown) | 🌍 **219th Global** of 1,119 | Agentic AI Division: 167th of 396 — 40/69 challenges solved, 2,291 pts |
-| **HTB Operation Cymbal: Cold Room 2026** | 🏅 **544th** of 1,716 teams | 18/18 challenges solved — 2,075 pts |
-| **HTB SecFest'26 CTF** | 🥇 **6th** of 139 teams | 26/26 challenges solved — 16,900 pts |
-| **HTB Cyber Apocalypse CTF '26** | 🥇 **35th Global** | 69,425 pts — 136/136 challenges solved (Team Mutex19) |
-| **HTB Global Benchmark '26** | 🏅 **148th Global** | 52,325 pts — 95/126 challenges solved |
-| **TryHackMe** | 🔥 **Top 1%** (Rank 14369) | 254 Rooms · 25 Badges · **LEGEND** Tier |
-| **HackTheBox** | ⚡ **Skilled** (Level 47) | Active 18-week streak |
-| **PortSwigger Web Academy** | 🔬 **45% Complete** | 76 Practitioner + 4 Expert labs |
-
+🏆 Engagement	📊 Rank	🎯 Achievement
+HTB Cyber Apocalypse CTF '26	🥇 35th Global	69,425 pts — 136/136 challenges solved (Team Mutex19)
+HTB Global Benchmark '26	🏅 148th Global	52,325 pts — 95/126 challenges solved
+TryHackMe	🔥 Top 1% (Rank--14369)	254 Rooms —25 Badges · LEGEND Tier
+HackTheBox	⚡ Skilled (Level 47)	Active 18-week streak
+PortSwigger Web Academy	🔬 45% Complete	76 Practitioner + 4 Expert labs
 </div>
-
 ---
-
-## `ls /skills/`
-
+`ls /skills/`
 <div align="center">
-
 ```
 drwxr-xr-x  web_exploitation/
 drwxr-xr-x  network_security/
 drwxr-xr-x  active_directory/
 drwxr-xr-x  privilege_escalation/
 ```
-
 </div>
-
-| Domain | Focus Areas |
-|:---|:---|
-| 🌐 **Web Exploitation** | OWASP Top 10 · API Security · SQLi · LFI/RFI · Command Injection |
-| 🖧 **Network Security** | Port Scanning · Pivoting · Packet Analysis · Service Enumeration |
-| 🔑 **Active Directory** | Kerberoasting · AS-REP Roasting · BloodHound · Lateral Movement |
-| ⬆️ **Privilege Escalation** | Linux & Windows Enumeration · Kernel Exploits · Misconfigurations |
-
+Domain	Focus Areas
+🌐 Web Exploitation	OWASP Top 10 · API Security · SQLi · LFI/RFI · Command Injection
+🖧 Network Security	Port Scanning · Pivoting · Packet Analysis · Service Enumeration
+🔑 Active Directory	Kerberoasting · AS-REP Roasting · BloodHound · Lateral Movement
+⬆️ Privilege Escalation	Linux & Windows Enumeration · Kernel Exploits · Misconfigurations
 ---
-
-## `cat /etc/vuln-matrix.conf`
-
+`cat /etc/vuln-matrix.conf`
 <div align="center">
-
 ![SQLi](https://img.shields.io/badge/-SQL%20Injection-FF0000?style=flat-square&logo=mysql&logoColor=white)
 ![XSS](https://img.shields.io/badge/-Cross%20Site%20Scripting-FF6B00?style=flat-square)
 ![CSRF](https://img.shields.io/badge/-CSRF-FFA500?style=flat-square)
@@ -117,108 +73,74 @@ drwxr-xr-x  privilege_escalation/
 ![FileUpload](https://img.shields.io/badge/-File%20Upload%20Bypass-E91E63?style=flat-square)
 ![BizLogic](https://img.shields.io/badge/-Business%20Logic-1ABC9C?style=flat-square)
 ![InfoDisc](https://img.shields.io/badge/-Information%20Disclosure-607D8B?style=flat-square)
-
 </div>
-
 ---
-
-## `./arsenal --list`
-
+`./arsenal --list`
 <div align="center">
-
-**Recon & OSINT**
-
+Recon & OSINT
 ![Nmap](https://img.shields.io/badge/-Nmap-0078D4?style=flat-square)
 ![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=flat-square)
 ![Subfinder](https://img.shields.io/badge/-Subfinder-00FF41?style=flat-square)
 ![Amass](https://img.shields.io/badge/-Amass-orange?style=flat-square)
 ![Ffuf](https://img.shields.io/badge/-Ffuf-lightgrey?style=flat-square)
-
-**Exploitation**
-
+Exploitation
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite%20Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
 ![SQLmap](https://img.shields.io/badge/-SQLmap-CC0000?style=flat-square)
 ![XSStrike](https://img.shields.io/badge/-XSStrike-F7DF1E?style=flat-square)
-
-**Post-Exploitation & AD**
-
+Post-Exploitation & AD
 ![BloodHound](https://img.shields.io/badge/-BloodHound-FF0000?style=flat-square)
 ![Impacket](https://img.shields.io/badge/-Impacket-00BFFF?style=flat-square)
 ![Mimikatz](https://img.shields.io/badge/-Mimikatz-9B59B6?style=flat-square)
 ![CrackMapExec](https://img.shields.io/badge/-CrackMapExec-1ABC9C?style=flat-square)
-
-**Languages & Scripting**
-
+Languages & Scripting
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 </div>
-
 ---
-
-## `cat certifications.txt`
-
+`cat certifications.txt`
+Certification / Program	Issuer	Date
+Arena Web Certified Professional (AWCP): Cyber Security & Ethical Hacking	Arena Web Security	2 Oct 2026
+Ethical Hacker	Cisco Networking Academy	16 Oct 2026
+Basics of Python	UniAthena, with Cambridge International Qualifications (UK)	3 Oct 2026
+Corporate Internship Completion (60 hours)	Arena Web Security	2 Oct 2026
+CWL Certified AI Security Fundamentals	CyberWarfare Labs	12 Oct 2026
+Certified Cyber Security Analyst (C3SA)	CyberWarfare Labs	11 Oct 2026
+SecFest'26 Capture the Flag (Certified CTF Player)	Hack The Box	28 – 30 Oct 2026
+HI CYBER CON 2026 CTF (Global Rank 219th, Agentic AI Division)	Hidden Investigations	30 Oct – 1 Nov 2026
+Operation Cymbal: Cold Room 2026 CTF (Certified CTF Player)	Hack The Box	29 Oct – 01 Nov 2026
+Hacker Holidays: Byte Lotus Summer Breach Engagement	TryHackMe	11 Aug 2026
+Cyber Apocalypse CTF 2026: The Salt Crown (Certified CTF Player)	Hack The Box	24 – 29 Jul 2026
+Global Cyber Skills Benchmark 2026: Project Nightfall (Certified CTF Player)	Hack The Box	15 – 20 May 2026
+Downtime	TryHackMe	30 Oct 2026
+Advent of Cyber 2024 (Completed 24 cyber security challenges)	TryHackMe	17 Oct 2026
+Advent of Cyber 2023	TryHackMe	8 Nov 2026
+Advent of Cyber 2022 (Basic cyber security knowledge and experience)	TryHackMe	17 Oct 2026
+Cyber Security & Ethical Hacking Boot Camp (15-day program)	Bangladesh Cyber Institute (BCI)	2026
+Wiz Bug Bounty Masterclass	Wiz	13 Feb 2026 (valid until 13 Feb 2028)
+Webinar on CEH (Certified Ethical Hacker)	Cyberlog Limited	N/A
+`neofetch --stats`
 <div align="center">
-
-| Certification / Program | Issuer | Date | Certificate |
-|:---|:---|:---:|:---:|
-| **Arena Web Certified Professional (AWCP)**: Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/awcp-arena-web-security.pdf) |
-| **Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cisco-ethical-hacker.pdf) |
-| **Basics of Python** | UniAthena, with Cambridge International Qualifications (UK) | 3 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/basics-of-python-uniathena.pdf) |
-| **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/corporate-internship-arena-web-security.pdf) |
-| **CWL Certified AI Security Fundamentals** | CyberWarfare Labs | 12 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cwl-ai-security-fundamentals.pdf) |
-| **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 11 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cwl-c3sa.pdf) |
-| **SecFest'26 Capture the Flag** (Certified CTF Player) | Hack The Box | 28 – 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/secfest-26-ctf.pdf) |
-| **HI CYBER CON 2026 CTF** (Global Rank 219th, Agentic AI Division) | Hidden Investigations | 30 Oct – 1 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/hi-cyber-con-2026-ctf.pdf) |
-| **Operation Cymbal: Cold Room 2026 CTF** (Certified CTF Player) | Hack The Box | 29 Oct – 01 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cold-room-ctf-2026.pdf) |
-| **Google Cloud Security Community CTF**: Continuing Education Completion (3 CPE hours) | Google Cloud | 29 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/google-cloud-security-community-ctf-cpe.png) |
-| **Hacker Holidays: Byte Lotus Summer Breach Engagement** | TryHackMe | 11 Aug 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-byte-lotus.pdf) |
-| **Cyber Apocalypse CTF 2026: The Salt Crown** (Certified CTF Player) | Hack The Box | 24 – 29 Jul 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyber-apocalypse-ctf-2026.pdf) |
-| **Global Cyber Skills Benchmark 2026: Project Nightfall** (Certified CTF Player) | Hack The Box | 15 – 20 May 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/global-cyber-skills-benchmark-2026.pdf) |
-| **Downtime** | TryHackMe | 30 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-downtime.pdf) |
-| **Advent of Cyber 2024** (Completed 24 cyber security challenges) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2024.pdf) |
-| **Advent of Cyber 2023** | TryHackMe | 8 Nov 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2023.pdf) |
-| **Advent of Cyber 2022** (Basic cyber security knowledge and experience) | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/thm-advent-of-cyber-2022.pdf) |
-| **Cyber Security & Ethical Hacking Boot Camp** (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/bci-cyber-security-bootcamp.pdf) |
-| **Wiz Bug Bounty Masterclass** | Wiz | 13 Feb 2026 (valid until 13 Feb 2028) | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/wiz-bug-bounty-masterclass.pdf) |
-| **Webinar on CEH** (Certified Ethical Hacker) | Cyberlog Limited | N/A | [![View](https://img.shields.io/badge/%F0%9F%93%84-View-D00000?style=flat-square&labelColor=2A0000)](certificates/cyberlog-ceh-webinar.pdf) |
-
-</div>
-
-## `neofetch --stats`
-
-<div align="center">
-
 <a href="https://github.com/MR-R00TX">
   <img src="https://github-readme-stats.vercel.app/api?username=MR-R00TX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41&count_private=true&include_all_commits=true" height="165" />
 </a>
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=MR-R00TX&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" height="165" />
 </a>
-
 <br/>
-
 <a href="https://github.com/MR-R00TX">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R00TX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&langs_count=8" />
 </a>
-
 </div>
-
 ---
-
-## `watch -n 1 cat activity_feed.log`
-
+`watch -n 1 cat activity_feed.log`
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MR-R00TX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="80%" />
 </div>
-
 ---
-
-## `./methodology.sh --full`
-
+`./methodology.sh --full`
 ```bash
 root@MR-R00TX:~# ./attack_chain.sh --verbose
 
@@ -244,13 +166,9 @@ root@MR-R00TX:~# ./attack_chain.sh --verbose
             │
 [+] STATUS  │ COMPLETE — Findings documented. Reporting to client.
 ```
-
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:5C0000,100:FF0000&height=120&section=footer&text=Stay%20Curious.%20Keep%20Hacking.&fontSize=30&fontColor=ffffff&fontAlignY=75" width="100%" alt="Stay Curious. Keep Hacking." />
-  
-  <br><br>
-  
-  <img src="https://api.visitorbadge.io/api/visitors?path=MR-R00TX.MR-R00TX&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%23E10600&style=for-the-badge" alt="Profile Views" />
+<br><br>
+<img src="https://api.visitorbadge.io/api/visitors?path=MR-R00TX.MR-R00TX&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%23E10600&style=for-the-badge" alt="Profile Views" />
 </div>
